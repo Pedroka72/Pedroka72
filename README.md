@@ -25,18 +25,15 @@
 
 
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/home
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+
+[twitter]: https://x.com/JPedroka22
+
+[instagram]: https://www.instagram.com/pedroka.72/
+[linkedin]: https://www.linkedin.com/in/joão-pedro-03943b265/
 
 <br>
 
 ## Rede sociais
 
-🏡 [Website][website] **|**
-🐦 [Twitter][twitter] **|**
-📺 [Youtube][youtube] **|**
 📷 [Instagram][instagram] 
 👔 [LinkedIn][linkedin] 
