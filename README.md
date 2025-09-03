@@ -3,7 +3,7 @@
 ## Mais sobre mim
 
 - Graduando em Ciência da Computação
-- Estudante de Java e Python (Back-End)
+- Estudante de Java, C# e Python (Back-End)
 - Estudante de Desenvolvimento Web: Html, CSS e JS (Front-End)
 
 ## Linguagens e ferramentas
